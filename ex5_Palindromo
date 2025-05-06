@@ -1,6 +1,6 @@
 using System.Linq;
 
-class Palindromo
+class ex5_Palindromo
 {
     public static void Executar()
     {
